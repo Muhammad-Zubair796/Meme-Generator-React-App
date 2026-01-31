@@ -57,6 +57,9 @@ export default function Main() {
                 <span className="top">{meme.topText}</span>
                 <span className="bottom">{meme.bottomText}</span>
             </div>
+            <footer className="footer">
+                <p>Made with ❤️ by M Zubair</p>
+            </footer>
         </main>
     )
 }

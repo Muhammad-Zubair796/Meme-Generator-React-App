@@ -104,3 +104,13 @@ main {
 .top {
     top: 0;
 }
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    color: #666;
+    font-size: 0.9rem;
+}
+
+.footer p {
+    letter-spacing: 1px;
+}
