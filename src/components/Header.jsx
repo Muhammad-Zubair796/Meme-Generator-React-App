@@ -5,7 +5,7 @@ export default function Header() {
         <header className="header">
             <img src={trollFace} alt="Troll Face" 
             />
-            <h1>Meme Generator</h1>
+            <h1>Zubi Memerator</h1>
         </header>
     )
 }
